@@ -2,7 +2,7 @@
 ### 👋 About Me<br>- 💻 Computer Engineer  <br>- 🤖 AI Engineer — specialized in **LLM, NLP, and Machine Learning**  <br>- 🧠 Passionate about building intelligent systems and real-world AI solutions  <br>- 🎯 Always learning and exploring new technologies<br>
 
 
-## 🌐 Socials:
+## 🌐 Email:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ewarasnah@gmail.com) 
 
 # 💻 Tech Stack:
